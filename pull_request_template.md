@@ -4,4 +4,4 @@
 
 ## Test Plan
 
-## a11y Plan
+## Screenshots
